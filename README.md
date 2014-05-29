@@ -5,7 +5,7 @@ Provides access to configuration files and environment variables for client appl
 
 
 
-***Installation
+###Installation
 
 To install EnviromentConfigurationManager, run the following command in the Package Manager Console
 
