@@ -5,7 +5,7 @@ using System.Configuration;
 namespace Quintsys.EnviromentConfigurationManager
 {
     // ReSharper disable UnusedMember.Global
-    internal interface IEnviromentConfigManager
+    public interface IEnviromentConfigManager
     {
         string Get(string key);
     }
